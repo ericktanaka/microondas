@@ -1,0 +1,23 @@
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\bin\Debug\Microwave.exe.config
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\bin\Debug\Microwave.exe
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\bin\Debug\Microwave.pdb
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\obj\Debug\Microwave.csproj.AssemblyReference.cache
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\obj\Debug\Microwave.Form1.resources
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\obj\Debug\Microwave.Properties.Resources.resources
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\obj\Debug\Microwave.csproj.GenerateResource.cache
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\obj\Debug\Microwave.csproj.CoreCompileInputs.cache
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\obj\Debug\Microwave.exe
+C:\Users\Erick Tanaka\source\repos\Microwave\Microwave\obj\Debug\Microwave.pdb
+D:\Microwave\Microwave\bin\Debug\Microwave.exe.config
+D:\Microwave\Microwave\bin\Debug\Microwave.exe
+D:\Microwave\Microwave\bin\Debug\Microwave.pdb
+D:\Microwave\Microwave\obj\Debug\Microwave.csproj.AssemblyReference.cache
+D:\Microwave\Microwave\obj\Debug\Microwave.Form1.resources
+D:\Microwave\Microwave\obj\Debug\Microwave.Properties.Resources.resources
+D:\Microwave\Microwave\obj\Debug\Microwave.csproj.GenerateResource.cache
+D:\Microwave\Microwave\obj\Debug\Microwave.csproj.CoreCompileInputs.cache
+D:\Microwave\Microwave\obj\Debug\Microwave.exe
+D:\Microwave\Microwave\obj\Debug\Microwave.pdb
+D:\Microwave\Microwave\bin\Debug\Newtonsoft.Json.dll
+D:\Microwave\Microwave\bin\Debug\Newtonsoft.Json.xml
+D:\Microwave\Microwave\obj\Debug\Microwave.csproj.Up2Date
